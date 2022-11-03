@@ -1,0 +1,16 @@
+2022-09-09 00:43:32 WARNING  checksum fail! b06fbff3a15a00, 68
+2022-09-09 00:44:14 WARNING  checksum fail! ad5601ef, 15
+2022-09-09 00:50:24 WARNING  checksum fail! ad5601ef, 15
+2022-09-09 01:00:14 WARNING  checksum fail! b06fff6fa15a00, 34
+2022-09-09 01:00:17 WARNING  checksum fail! b06f37a15a007b, 68
+2022-09-09 01:05:19 WARNING  checksum fail! b06fbff3a15a00, 68
+2022-09-09 01:07:10 INFO     publish to HA:   sds/light/16/power1/state = ON (b07916015e)
+2022-09-09 01:07:17 INFO     publish to HA:   sds/light/16/power1/state = OFF (b07916005f)
+2022-09-09 01:07:43 INFO     publish to HA:   sds/light/16/power1/state = ON (b07916015e)
+2022-09-09 01:12:17 INFO     publish to HA:   sds/light/16/power1/state = OFF (b07916005f)
+2022-09-09 01:12:41 WARNING  checksum fail! b06f37a15a007b, 68
+2022-09-09 01:15:40 WARNING  checksum fail! b06fbff3a15a00, 68
+2022-09-09 01:26:07 WARNING  checksum fail! ad5601ff, 05
+2022-09-09 01:26:35 INFO     publish to HA:   sds/light/16/power1/state = ON (b07916015e)
+2022-09-09 01:26:52 WARNING  checksum fail! b06f37a15a007b, 68
+2022-09-09 01:27:29 INFO     publish to HA:   sds/light/16/power1/state = OFF (b07916005f)

@@ -1,0 +1,91 @@
+2022-10-12 23:27:21 INFO     initialize serial...
+2022-10-12 23:27:21 INFO     initialize mqtt...
+2022-10-12 23:27:21 INFO     waiting MQTT connected ...
+2022-10-12 23:27:21 INFO     MQTT connect successful!
+2022-10-12 23:27:21 INFO     Add new device:  homeassistant/switch/sds_wallpad/sds_elevator/config
+2022-10-12 23:27:21 INFO     initial state:   sds/virtual/entrance/ev/state = OFF
+2022-10-12 23:27:21 INFO     Add new device:  homeassistant/switch/sds_wallpad/sds_gas_cutoff/config
+2022-10-12 23:27:21 INFO     initial state:   sds/virtual/entrance/gas/state = OFF
+2022-10-12 23:27:21 INFO     subscribe homeassistant/status
+2022-10-12 23:27:21 INFO     subscribe sds/virtual/+/+/command
+2022-10-12 23:27:21 INFO     subscribe sds/+/+/+/command
+2022-10-12 23:27:22 INFO     start loop ...
+2022-10-12 23:27:22 INFO     Add new device:  homeassistant/light/sds_wallpad/sds_light_1/config
+2022-10-12 23:27:22 INFO     Add new device:  homeassistant/light/sds_wallpad/sds_light_2/config
+2022-10-12 23:27:22 INFO     Add new device:  homeassistant/light/sds_wallpad/sds_light_3/config
+2022-10-12 23:27:22 INFO     Add new device:  homeassistant/light/sds_wallpad/sds_light_4/config
+2022-10-12 23:27:22 INFO     Add new device:  homeassistant/light/sds_wallpad/sds_light_5/config
+2022-10-12 23:27:23 INFO     Add new device:  homeassistant/light/sds_wallpad/sds_light_6/config
+2022-10-12 23:27:24 INFO     publish to HA:   sds/light/31/power1/state = OFF (b07931047c)
+2022-10-12 23:27:24 INFO     publish to HA:   sds/light/31/power2/state = OFF (b07931047c)
+2022-10-12 23:27:24 INFO     publish to HA:   sds/light/31/power3/state = ON (b07931047c)
+2022-10-12 23:27:24 INFO     publish to HA:   sds/light/31/power4/state = OFF (b07931047c)
+2022-10-12 23:27:24 INFO     publish to HA:   sds/light/31/power5/state = OFF (b07931047c)
+2022-10-12 23:27:24 INFO     publish to HA:   sds/light/31/power6/state = OFF (b07931047c)
+2022-10-12 23:27:24 INFO     publish to HA:   sds/light/31/power7/state = OFF (b07931047c)
+2022-10-12 23:27:24 INFO     publish to HA:   sds/light/31/power8/state = OFF (b07931047c)
+2022-10-12 23:27:24 INFO     publish to HA:   sds/light/14/power1/state = OFF (b07914005d)
+2022-10-12 23:27:24 INFO     publish to HA:   sds/light/14/power2/state = OFF (b07914005d)
+2022-10-12 23:27:24 INFO     publish to HA:   sds/light/14/power3/state = OFF (b07914005d)
+2022-10-12 23:27:24 INFO     publish to HA:   sds/light/14/power4/state = OFF (b07914005d)
+2022-10-12 23:27:24 INFO     publish to HA:   sds/light/14/power5/state = OFF (b07914005d)
+2022-10-12 23:27:24 INFO     publish to HA:   sds/light/14/power6/state = OFF (b07914005d)
+2022-10-12 23:27:24 INFO     publish to HA:   sds/light/14/power7/state = OFF (b07914005d)
+2022-10-12 23:27:24 INFO     publish to HA:   sds/light/14/power8/state = OFF (b07914005d)
+2022-10-12 23:27:24 INFO     publish to HA:   sds/light/15/power1/state = OFF (b07915005c)
+2022-10-12 23:27:24 INFO     publish to HA:   sds/light/15/power2/state = OFF (b07915005c)
+2022-10-12 23:27:24 INFO     publish to HA:   sds/light/15/power3/state = OFF (b07915005c)
+2022-10-12 23:27:24 INFO     publish to HA:   sds/light/15/power4/state = OFF (b07915005c)
+2022-10-12 23:27:24 INFO     publish to HA:   sds/light/15/power5/state = OFF (b07915005c)
+2022-10-12 23:27:24 INFO     publish to HA:   sds/light/15/power6/state = OFF (b07915005c)
+2022-10-12 23:27:24 INFO     publish to HA:   sds/light/15/power7/state = OFF (b07915005c)
+2022-10-12 23:27:24 INFO     publish to HA:   sds/light/15/power8/state = OFF (b07915005c)
+2022-10-12 23:27:25 INFO     publish to HA:   sds/light/16/power1/state = OFF (b07916005f)
+2022-10-12 23:27:25 INFO     publish to HA:   sds/light/16/power2/state = OFF (b07916005f)
+2022-10-12 23:27:25 INFO     publish to HA:   sds/light/16/power3/state = OFF (b07916005f)
+2022-10-12 23:27:25 INFO     publish to HA:   sds/light/16/power4/state = OFF (b07916005f)
+2022-10-12 23:27:25 INFO     publish to HA:   sds/light/16/power5/state = OFF (b07916005f)
+2022-10-12 23:27:25 INFO     publish to HA:   sds/light/16/power6/state = OFF (b07916005f)
+2022-10-12 23:27:25 INFO     publish to HA:   sds/light/16/power7/state = OFF (b07916005f)
+2022-10-12 23:27:25 INFO     publish to HA:   sds/light/16/power8/state = OFF (b07916005f)
+2022-10-12 23:27:30 INFO     Add new device:  homeassistant/sensor/sds_wallpad/sds_gas_valve_1/config
+2022-10-12 23:27:32 INFO     Add new device:  All done.
+2022-10-12 23:27:45 INFO     publish to HA:   sds/gas_valve/1/power/state = 차단 (ad56017a)
+2022-10-12 23:28:57 INFO     recv. from HA:   sds/light/3/power/command = OFF
+2022-10-12 23:28:57 INFO     send to device:  ac7a030055
+2022-10-12 23:28:57 INFO     ack from device: ac7a030055 (b07a03)
+2022-10-12 23:28:58 INFO     publish to HA:   sds/light/31/power3/state = OFF (b079310078)
+2022-10-12 23:28:58 INFO     recv. from HA:   sds/light/3/power/command = ON
+2022-10-12 23:28:58 INFO     send to device:  ac7a030154
+2022-10-12 23:28:58 INFO     ack from device: ac7a030154 (b07a03)
+2022-10-12 23:29:00 INFO     publish to HA:   sds/light/31/power3/state = ON (b07931047c)
+2022-10-12 23:29:00 INFO     recv. from HA:   sds/light/3/power/command = OFF
+2022-10-12 23:29:00 INFO     send to device:  ac7a030055
+2022-10-12 23:29:00 INFO     send to device:  ac7a030055
+2022-10-12 23:29:00 INFO     ack from device: ac7a030055 (b07a03)
+2022-10-12 23:29:01 INFO     publish to HA:   sds/light/31/power3/state = OFF (b079310078)
+2022-10-12 23:29:31 INFO     recv. from HA:   sds/virtual/entrance/ev/command = ON
+2022-10-12 23:29:31 INFO     publish to HA:   sds/virtual/entrance/ev/state = ON
+2022-10-12 23:29:34 INFO     send to wallpad: b02f011e
+2022-10-12 23:29:34 WARNING  send to wallpad: b02f011e, try another 16.5 seconds...
+2022-10-12 23:29:35 WARNING  send to wallpad: b02f011e, try another 15.8 seconds...
+2022-10-12 23:29:36 WARNING  send to wallpad: b02f011e, try another 15.1 seconds...
+2022-10-12 23:29:36 WARNING  send to wallpad: b02f011e, try another 14.4 seconds...
+2022-10-12 23:29:37 WARNING  send to wallpad: b02f011e, try another 13.7 seconds...
+2022-10-12 23:29:38 WARNING  send to wallpad: b02f011e, try another 13.0 seconds...
+2022-10-12 23:29:39 WARNING  send to wallpad: b02f011e, try another 12.3 seconds...
+2022-10-12 23:29:40 WARNING  send to wallpad: b02f011e, try another 11.3 seconds...
+2022-10-12 23:29:40 WARNING  send to wallpad: b02f011e, try another 10.6 seconds...
+2022-10-12 23:29:41 WARNING  send to wallpad: b02f011e, try another 9.9 seconds...
+2022-10-12 23:29:41 INFO     ack frm wallpad: 0xad2f
+2022-10-12 23:29:41 INFO     publish to HA:   sds/virtual/entrance/ev/state = OFF
+2022-10-12 23:30:01 WARNING  checksum fail! ad5681bf, 45
+2022-10-12 23:30:04 WARNING  checksum fail! b06f37a15a007b, 68
+2022-10-12 23:32:04 INFO     recv. from HA:   sds/light/6/power/command = ON
+2022-10-12 23:32:04 INFO     send to device:  ac7a060151
+2022-10-12 23:32:04 INFO     ack from device: ac7a060151 (b07a06)
+2022-10-12 23:32:05 INFO     publish to HA:   sds/light/16/power1/state = ON (b07916015e)
+2022-10-12 23:32:26 INFO     recv. from HA:   sds/light/6/power/command = OFF
+2022-10-12 23:32:26 INFO     send to device:  ac7a060050
+2022-10-12 23:32:26 INFO     ack from device: ac7a060050 (b07a06)
+2022-10-12 23:32:28 INFO     publish to HA:   sds/light/16/power1/state = OFF (b07916005f)

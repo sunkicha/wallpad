@@ -1,0 +1,48 @@
+A25A0078,
+A25A007800,
+A6410067:
+A35A0079,
+A4 5A 007E, #인터폰?
+A541006400:
+AD 52 007F:   라이트
+A641006700:
+A641006763
+B0520163    #라이트 리스판스?
+AC41006D,
+AD41006C:   #현관스위치 ?
+AD56007B:   #가스쿼리?
+B0410071
+B0560066    #현관 쿼리 리스판스스
+
+
+# 전등 스위치 Status { "header": 0xB079, "length":  5, "id": 2, "parse": {("power", 3, "bitmap")} },
+B079  15005 C,
+B079  16005F,
+B079  1600005F,
+B079  310078,
+B079  14005D,
+
+# 전등 스위치 Query
+AC79000550:
+AC79000653:
+AC79000154:
+AC79000451:
+
+#전등 파워 없음.
+
+
+
+/*
+{deviceId: 'Thermo', subId: ['1','2','3','4'], stateStartWithHex: 'f7 20 01 4A 81'.buff() , whereToReadBlock: [6,8,10,12],  setTemp: '', curTemp: '', power: ''},
+*/
+
+
+checksum fail! b06f ff6fa15a00, 34 // 에너지 항목으로 보임.
+
+logger.info("".join(logs))
+
+12:49:14 WARNING  checksum fail! b06f ff6fa15a00, 34    #실시간에너지.
+12:51:12 WARNING  checksum fail! b06f ff6fa15a00, 34    #실시간에너지.
+12:53:07 WARNING  checksum fail! b06f 37a15a007b, 68    #실시간에너지.
+12:53:19 WARNING  checksum fail! ad56 00ef, 14  #가스밸브
+12:59:13 WARNING  checksum fail! ad56 80ff, 04  #가스밸브

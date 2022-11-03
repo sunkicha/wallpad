@@ -1,0 +1,337 @@
+2022-10-13 05:46:39 INFO     initialize serial...
+2022-10-13 05:46:39 WARNING  packet dump for 10 seconds!
+2022-10-13 05:46:39 INFO     ,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000451: B07914005D,  AD41006C: B0410071
+2022-10-13 05:46:39 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B041007100,  A6410067: B0410071,  AC79000550: B07915005C,  AD52007F: B0520163
+2022-10-13 05:46:39 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC7900060053: B07916005F,  AD41006C: B0410071
+2022-10-13 05:46:39 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC41006D,  AD52007F: B0520163
+2022-10-13 05:46:39 INFO     A15A007B00,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000154: B079310078,  AD41006C: B0410071
+2022-10-13 05:46:41 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B041007178,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC41006D,  AD52007F: B0520163
+2022-10-13 05:46:41 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000154: B079310078,  AD41006C: B0410071
+2022-10-13 05:46:41 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000451: B07914005D,  AD52007F: B0520163
+2022-10-13 05:46:41 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000550: B07915005C,  AD41006C: B0410071
+2022-10-13 05:46:41 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000653: B07916005F,  AD52007F: B0520163
+2022-10-13 05:46:43 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC41006D,  AD41006C: B0410071
+2022-10-13 05:46:43 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000154: B079310078,  AD52007F: B0520163
+2022-10-13 05:46:43 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000451: B07914005D,  AD41006C: B0410071
+2022-10-13 05:46:43 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000550: B07915005C,  AD52007F: B0520163
+2022-10-13 05:46:43 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000653: B07916005F,  AD41006C: B0410071
+2022-10-13 05:46:44 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC41006D,  AD52007F: B0520163
+2022-10-13 05:46:44 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000154: B079310078,  AD41006C: B0410071
+2022-10-13 05:46:44 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000451: B07914005D,  AD52007F: B0520163
+2022-10-13 05:46:44 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000550: B07915005C,  AD41006C: B0410071
+2022-10-13 05:46:44 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000653: B07916005F,  AD52007F: B0520163
+2022-10-13 05:46:46 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC41006D,  AD41006C: B0410071
+2022-10-13 05:46:46 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000154: B079310078,  AD52007F: B0520163
+2022-10-13 05:46:46 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000451: B07914005D,  AD41006C: B0410071
+2022-10-13 05:46:46 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000550: B07915005C,  AD52007F: B0520163
+2022-10-13 05:46:46 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000653: B07916005F,  AD41006C: B0410071
+2022-10-13 05:46:46 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC41006D,  AD52007F: B0520163
+2022-10-13 05:46:48 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000154: B079310078,  AD41006C: B0410071
+2022-10-13 05:46:48 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000451: B07914005D,  AD52007F: B0520163
+2022-10-13 05:46:48 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000550: B07915005C,  AD41006C: B0410071
+2022-10-13 05:46:48 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000653: B07916005F,  AD52007F: B0520163
+2022-10-13 05:46:48 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC41006D,  AD41006C: B0410071
+2022-10-13 05:46:50 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000154: B079310078,  AD52007F: B0520163
+2022-10-13 05:46:50 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000451: B07914005D,  AD41006C: B0410071
+2022-10-13 05:46:50 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000550: B07915005C,  AD52007F: B0520163
+2022-10-13 05:46:50 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000653: B07916005F,  AD41006C: B0560066
+2022-10-13 05:46:50 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC41006D,  AD56007B: B0410071
+2022-10-13 05:46:50 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071
+2022-10-13 05:46:50 WARNING  dump done.
+2022-10-13 05:46:50 INFO     initialize mqtt...
+2022-10-13 05:46:50 INFO     waiting MQTT connected ...
+2022-10-13 05:46:50 INFO     MQTT connect successful!
+2022-10-13 05:46:50 INFO     Add new device:  homeassistant/switch/sds_wallpad/sds_elevator/config
+2022-10-13 05:46:50 INFO     initial state:   sds/virtual/entrance/ev/state = OFF
+2022-10-13 05:46:50 INFO     Add new device:  homeassistant/switch/sds_wallpad/sds_gas_cutoff/config
+2022-10-13 05:46:50 INFO     initial state:   sds/virtual/entrance/gas/state = OFF
+2022-10-13 05:46:50 INFO     subscribe homeassistant/status
+2022-10-13 05:46:50 INFO     subscribe sds/virtual/+/+/command
+2022-10-13 05:46:50 INFO     subscribe sds/+/+/+/command
+2022-10-13 05:46:51 INFO     start loop ...
+2022-10-13 05:46:51 INFO     lserial_new_device : deviceName ==> iserial_new_device : deviceName ==> gserial_new_device : deviceName ==> hserial_new_device : deviceName ==> tserial_new_device : deviceName ==> serial_new_device : deviceName ==> 
+
+2022-10-13 05:46:51 INFO     Add new device:  homeassistant/light/sds_wallpad/sds_light_1/config
+2022-10-13 05:46:51 INFO     Add new device:  homeassistant/light/sds_wallpad/sds_light_2/config
+2022-10-13 05:46:51 INFO     Add new device:  homeassistant/light/sds_wallpad/sds_light_3/config
+2022-10-13 05:46:51 INFO     lserial_new_device : deviceName ==> iserial_new_device : deviceName ==> gserial_new_device : deviceName ==> hserial_new_device : deviceName ==> tserial_new_device : deviceName ==> serial_new_device : deviceName ==> 
+
+2022-10-13 05:46:51 INFO     Add new device:  homeassistant/light/sds_wallpad/sds_light_4/config
+2022-10-13 05:46:51 INFO     lserial_new_device : deviceName ==> iserial_new_device : deviceName ==> gserial_new_device : deviceName ==> hserial_new_device : deviceName ==> tserial_new_device : deviceName ==> serial_new_device : deviceName ==> 
+
+2022-10-13 05:46:51 INFO     Add new device:  homeassistant/light/sds_wallpad/sds_light_5/config
+2022-10-13 05:46:51 INFO     lserial_new_device : deviceName ==> iserial_new_device : deviceName ==> gserial_new_device : deviceName ==> hserial_new_device : deviceName ==> tserial_new_device : deviceName ==> serial_new_device : deviceName ==> 
+
+2022-10-13 05:46:51 INFO     Add new device:  homeassistant/light/sds_wallpad/sds_light_6/config
+2022-10-13 05:46:52 INFO     publish to HA:   sds/light/31/power1/state = OFF (b079310078)
+2022-10-13 05:46:52 INFO     publish to HA:   sds/light/31/power2/state = OFF (b079310078)
+2022-10-13 05:46:52 INFO     publish to HA:   sds/light/31/power3/state = OFF (b079310078)
+2022-10-13 05:46:52 INFO     publish to HA:   sds/light/31/power4/state = OFF (b079310078)
+2022-10-13 05:46:52 INFO     publish to HA:   sds/light/31/power5/state = OFF (b079310078)
+2022-10-13 05:46:52 INFO     publish to HA:   sds/light/31/power6/state = OFF (b079310078)
+2022-10-13 05:46:52 INFO     publish to HA:   sds/light/31/power7/state = OFF (b079310078)
+2022-10-13 05:46:52 INFO     publish to HA:   sds/light/31/power8/state = OFF (b079310078)
+2022-10-13 05:46:52 INFO     publish to HA:   sds/light/14/power1/state = OFF (b07914005d)
+2022-10-13 05:46:52 INFO     publish to HA:   sds/light/14/power2/state = OFF (b07914005d)
+2022-10-13 05:46:52 INFO     publish to HA:   sds/light/14/power3/state = OFF (b07914005d)
+2022-10-13 05:46:52 INFO     publish to HA:   sds/light/14/power4/state = OFF (b07914005d)
+2022-10-13 05:46:52 INFO     publish to HA:   sds/light/14/power5/state = OFF (b07914005d)
+2022-10-13 05:46:52 INFO     publish to HA:   sds/light/14/power6/state = OFF (b07914005d)
+2022-10-13 05:46:52 INFO     publish to HA:   sds/light/14/power7/state = OFF (b07914005d)
+2022-10-13 05:46:52 INFO     publish to HA:   sds/light/14/power8/state = OFF (b07914005d)
+2022-10-13 05:46:52 INFO     publish to HA:   sds/light/15/power1/state = OFF (b07915005c)
+2022-10-13 05:46:52 INFO     publish to HA:   sds/light/15/power2/state = OFF (b07915005c)
+2022-10-13 05:46:52 INFO     publish to HA:   sds/light/15/power3/state = OFF (b07915005c)
+2022-10-13 05:46:52 INFO     publish to HA:   sds/light/15/power4/state = OFF (b07915005c)
+2022-10-13 05:46:52 INFO     publish to HA:   sds/light/15/power5/state = OFF (b07915005c)
+2022-10-13 05:46:52 INFO     publish to HA:   sds/light/15/power6/state = OFF (b07915005c)
+2022-10-13 05:46:52 INFO     publish to HA:   sds/light/15/power7/state = OFF (b07915005c)
+2022-10-13 05:46:52 INFO     publish to HA:   sds/light/15/power8/state = OFF (b07915005c)
+2022-10-13 05:46:53 INFO     publish to HA:   sds/light/16/power1/state = OFF (b07916005f)
+2022-10-13 05:46:53 INFO     publish to HA:   sds/light/16/power2/state = OFF (b07916005f)
+2022-10-13 05:46:53 INFO     publish to HA:   sds/light/16/power3/state = OFF (b07916005f)
+2022-10-13 05:46:53 INFO     publish to HA:   sds/light/16/power4/state = OFF (b07916005f)
+2022-10-13 05:46:53 INFO     publish to HA:   sds/light/16/power5/state = OFF (b07916005f)
+2022-10-13 05:46:53 INFO     publish to HA:   sds/light/16/power6/state = OFF (b07916005f)
+2022-10-13 05:46:53 INFO     publish to HA:   sds/light/16/power7/state = OFF (b07916005f)
+2022-10-13 05:46:53 INFO     publish to HA:   sds/light/16/power8/state = OFF (b07916005f)
+2022-10-13 05:47:00 INFO     Add new device:  All done.
+2022-10-13 05:47:11 INFO     publish to HA:   sds/gas_valve/1/power/state = 열림 (ad56007b)
+2022-10-13 05:47:14 ERROR    addon finished!
+Traceback (most recent call last):
+  File "/home/ubuntu/addons/wallpad/wallpad.py", line 1267, in <module>
+    serial_loop()
+  File "/home/ubuntu/addons/wallpad/wallpad.py", line 1119, in serial_loop
+    header_0, header_1 = serial_get_header()
+  File "/home/ubuntu/addons/wallpad/wallpad.py", line 1059, in serial_get_header
+    header_0 = conn.recv(1)[0]
+  File "/home/ubuntu/addons/wallpad/wallpad.py", line 389, in recv
+    return self._recv_raw(count)
+  File "/home/ubuntu/addons/wallpad/wallpad.py", line 384, in _recv_raw
+    return self._ser.read(count)
+  File "/usr/lib/python3/dist-packages/serial/serialposix.py", line 565, in read
+    ready, _, _ = select.select([self.fd, self.pipe_abort_read_r], [], [], timeout.time_left())
+KeyboardInterrupt
+2022-10-13 05:47:55 INFO     initialize serial...
+2022-10-13 05:47:55 WARNING  packet dump for 10 seconds!
+2022-10-13 05:47:55 INFO     ,  AC79000154: B079310078,  AD5A0077: B05A006A
+2022-10-13 05:47:55 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000451: B07914005D,  AD5200007F: B0520163
+2022-10-13 05:47:55 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000550: B07915005C,  AD41006C: B0410071
+2022-10-13 05:47:55 INFO     A15A007B,  A25A000078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000550: B07915005C,  AD52007F: B0520163
+2022-10-13 05:47:55 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A541000064: B0410071,  A6410067: B0410071,  AC79000653: B07916005F,  AD41006C: B0410071
+2022-10-13 05:47:57 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B041000071,  AC41006D,  AD527B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000653: B07916005F,  AD52007F: B0520163
+2022-10-13 05:47:57 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC41006D,  AD41006C: B0410071
+2022-10-13 05:47:57 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000154: B079310078,  AD52007F: B0520163
+2022-10-13 05:47:57 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000451: B07914005D,  AD41006C: B0410071
+2022-10-13 05:47:57 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000550: B07915005C,  AD52007F: B0520163
+2022-10-13 05:47:59 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000653: B07916005F,  AD41006C: B0410071
+2022-10-13 05:47:59 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC41006D,  AD52007F: B0520163
+2022-10-13 05:47:59 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000154: B079310078,  AD41006C: B0410071
+2022-10-13 05:47:59 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000451: B07914005D,  AD52007F: B0520163
+2022-10-13 05:47:59 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000550: B07915005C,  AD41006C: B0410071
+2022-10-13 05:48:01 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000653: B07916005F,  AD52007F: B0520163
+2022-10-13 05:48:01 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC41006D,  AD41006C: B0410071
+2022-10-13 05:48:01 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000154: B079310078,  AD52007F: B0520163
+2022-10-13 05:48:01 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000451: B07914005D,  AD41006C: B0410071
+2022-10-13 05:48:01 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000550: B07915005C,  AD52007F: B0520163
+2022-10-13 05:48:02 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000653: B07916005F,  AD41006C: B0560066
+2022-10-13 05:48:02 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC41006D,  AD56007B: B0410071
+2022-10-13 05:48:02 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000154: B079310078,  AD52007F: B0520163
+2022-10-13 05:48:02 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000451: B07914005D,  AD41006C: B0410071
+2022-10-13 05:48:02 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000550: B07915005C,  AD52007F: B0520163
+2022-10-13 05:48:04 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000653: B07916005F,  AD41006C: B0410071
+2022-10-13 05:48:04 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC41006D,  AD52007F: B0520163
+2022-10-13 05:48:04 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000154: B079310078,  AD41006C: B0410071
+2022-10-13 05:48:04 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000451: B07914005D,  AD52007F: B0520163
+2022-10-13 05:48:04 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000550: B07915005C,  AD41006C: B0410071
+2022-10-13 05:48:04 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000653: B07916005F,  AD52007F: B0520163
+2022-10-13 05:48:06 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC41006D,  AD41006C: B0410071
+2022-10-13 05:48:06 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000154: B079310078,  AD52007F: B0520163
+2022-10-13 05:48:06 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000451: B07914005D,  AD41006C: B0410071
+2022-10-13 05:48:06 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000550: B07915005C,  AD52007F: B0520163
+2022-10-13 05:48:06 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000653: B07916005F,  AD41006C: B0410071
+2022-10-13 05:48:06 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0
+2022-10-13 05:48:06 WARNING  dump done.
+2022-10-13 05:48:06 INFO     initialize mqtt...
+2022-10-13 05:48:06 INFO     waiting MQTT connected ...
+2022-10-13 05:48:06 INFO     MQTT connect successful!
+2022-10-13 05:48:06 INFO     Add new device:  homeassistant/switch/sds_wallpad/sds_elevator/config
+2022-10-13 05:48:06 INFO     initial state:   sds/virtual/entrance/ev/state = OFF
+2022-10-13 05:48:06 INFO     Add new device:  homeassistant/switch/sds_wallpad/sds_gas_cutoff/config
+2022-10-13 05:48:06 INFO     initial state:   sds/virtual/entrance/gas/state = OFF
+2022-10-13 05:48:06 INFO     subscribe homeassistant/status
+2022-10-13 05:48:06 INFO     subscribe sds/virtual/+/+/command
+2022-10-13 05:48:06 INFO     subscribe sds/+/+/+/command
+2022-10-13 05:48:07 INFO     start loop ...
+2022-10-13 05:48:07 INFO     ---------------
+
+2022-10-13 05:48:07 INFO     lserial_new_device : deviceName ==> iserial_new_device : deviceName ==> gserial_new_device : deviceName ==> hserial_new_device : deviceName ==> tserial_new_device : deviceName ==> serial_new_device : deviceName ==> 
+
+2022-10-13 05:48:07 INFO     Add new device:  homeassistant/light/sds_wallpad/sds_light_1/config
+2022-10-13 05:48:07 INFO     Add new device:  homeassistant/light/sds_wallpad/sds_light_2/config
+2022-10-13 05:48:07 INFO     Add new device:  homeassistant/light/sds_wallpad/sds_light_3/config
+2022-10-13 05:48:07 INFO     ---------------
+
+2022-10-13 05:48:07 INFO     lserial_new_device : deviceName ==> iserial_new_device : deviceName ==> gserial_new_device : deviceName ==> hserial_new_device : deviceName ==> tserial_new_device : deviceName ==> serial_new_device : deviceName ==> 
+
+2022-10-13 05:48:07 INFO     Add new device:  homeassistant/light/sds_wallpad/sds_light_4/config
+2022-10-13 05:48:07 INFO     ---------------
+
+2022-10-13 05:48:07 INFO     lserial_new_device : deviceName ==> iserial_new_device : deviceName ==> gserial_new_device : deviceName ==> hserial_new_device : deviceName ==> tserial_new_device : deviceName ==> serial_new_device : deviceName ==> 
+
+2022-10-13 05:48:07 INFO     Add new device:  homeassistant/light/sds_wallpad/sds_light_5/config
+2022-10-13 05:48:08 INFO     ---------------
+
+2022-10-13 05:48:08 INFO     lserial_new_device : deviceName ==> iserial_new_device : deviceName ==> gserial_new_device : deviceName ==> hserial_new_device : deviceName ==> tserial_new_device : deviceName ==> serial_new_device : deviceName ==> 
+
+2022-10-13 05:48:08 INFO     Add new device:  homeassistant/light/sds_wallpad/sds_light_6/config
+2022-10-13 05:48:08 INFO     publish to HA:   sds/light/31/power1/state = OFF (b079310078)
+2022-10-13 05:48:08 INFO     publish to HA:   sds/light/31/power2/state = OFF (b079310078)
+2022-10-13 05:48:08 INFO     publish to HA:   sds/light/31/power3/state = OFF (b079310078)
+2022-10-13 05:48:08 INFO     publish to HA:   sds/light/31/power4/state = OFF (b079310078)
+2022-10-13 05:48:08 INFO     publish to HA:   sds/light/31/power5/state = OFF (b079310078)
+2022-10-13 05:48:08 INFO     publish to HA:   sds/light/31/power6/state = OFF (b079310078)
+2022-10-13 05:48:08 INFO     publish to HA:   sds/light/31/power7/state = OFF (b079310078)
+2022-10-13 05:48:08 INFO     publish to HA:   sds/light/31/power8/state = OFF (b079310078)
+2022-10-13 05:48:09 INFO     publish to HA:   sds/light/14/power1/state = OFF (b07914005d)
+2022-10-13 05:48:09 INFO     publish to HA:   sds/light/14/power2/state = OFF (b07914005d)
+2022-10-13 05:48:09 INFO     publish to HA:   sds/light/14/power3/state = OFF (b07914005d)
+2022-10-13 05:48:09 INFO     publish to HA:   sds/light/14/power4/state = OFF (b07914005d)
+2022-10-13 05:48:09 INFO     publish to HA:   sds/light/14/power5/state = OFF (b07914005d)
+2022-10-13 05:48:09 INFO     publish to HA:   sds/light/14/power6/state = OFF (b07914005d)
+2022-10-13 05:48:09 INFO     publish to HA:   sds/light/14/power7/state = OFF (b07914005d)
+2022-10-13 05:48:09 INFO     publish to HA:   sds/light/14/power8/state = OFF (b07914005d)
+2022-10-13 05:48:09 INFO     publish to HA:   sds/light/15/power1/state = OFF (b07915005c)
+2022-10-13 05:48:09 INFO     publish to HA:   sds/light/15/power2/state = OFF (b07915005c)
+2022-10-13 05:48:09 INFO     publish to HA:   sds/light/15/power3/state = OFF (b07915005c)
+2022-10-13 05:48:09 INFO     publish to HA:   sds/light/15/power4/state = OFF (b07915005c)
+2022-10-13 05:48:09 INFO     publish to HA:   sds/light/15/power5/state = OFF (b07915005c)
+2022-10-13 05:48:09 INFO     publish to HA:   sds/light/15/power6/state = OFF (b07915005c)
+2022-10-13 05:48:09 INFO     publish to HA:   sds/light/15/power7/state = OFF (b07915005c)
+2022-10-13 05:48:09 INFO     publish to HA:   sds/light/15/power8/state = OFF (b07915005c)
+2022-10-13 05:48:09 INFO     publish to HA:   sds/light/16/power1/state = OFF (b07916005f)
+2022-10-13 05:48:09 INFO     publish to HA:   sds/light/16/power2/state = OFF (b07916005f)
+2022-10-13 05:48:09 INFO     publish to HA:   sds/light/16/power3/state = OFF (b07916005f)
+2022-10-13 05:48:09 INFO     publish to HA:   sds/light/16/power4/state = OFF (b07916005f)
+2022-10-13 05:48:09 INFO     publish to HA:   sds/light/16/power5/state = OFF (b07916005f)
+2022-10-13 05:48:09 INFO     publish to HA:   sds/light/16/power6/state = OFF (b07916005f)
+2022-10-13 05:48:09 INFO     publish to HA:   sds/light/16/power7/state = OFF (b07916005f)
+2022-10-13 05:48:09 INFO     publish to HA:   sds/light/16/power8/state = OFF (b07916005f)
+2022-10-13 05:48:12 INFO     ---------------
+
+2022-10-13 05:48:12 INFO     gserial_new_device : deviceName ==> aserial_new_device : deviceName ==> sserial_new_device : deviceName ==> _serial_new_device : deviceName ==> vserial_new_device : deviceName ==> aserial_new_device : deviceName ==> lserial_new_device : deviceName ==> vserial_new_device : deviceName ==> eserial_new_device : deviceName ==> serial_new_device : deviceName ==> 
+
+2022-10-13 05:48:12 INFO     Add new device:  homeassistant/sensor/sds_wallpad/sds_gas_valve_1/config
+2022-10-13 05:48:16 INFO     Add new device:  All done.
+2022-10-13 05:48:51 ERROR    addon finished!
+Traceback (most recent call last):
+  File "/home/ubuntu/addons/wallpad/wallpad.py", line 1268, in <module>
+    serial_loop()
+  File "/home/ubuntu/addons/wallpad/wallpad.py", line 1120, in serial_loop
+    header_0, header_1 = serial_get_header()
+  File "/home/ubuntu/addons/wallpad/wallpad.py", line 1060, in serial_get_header
+    header_0 = conn.recv(1)[0]
+  File "/home/ubuntu/addons/wallpad/wallpad.py", line 389, in recv
+    return self._recv_raw(count)
+  File "/home/ubuntu/addons/wallpad/wallpad.py", line 384, in _recv_raw
+    return self._ser.read(count)
+  File "/usr/lib/python3/dist-packages/serial/serialposix.py", line 565, in read
+    ready, _, _ = select.select([self.fd, self.pipe_abort_read_r], [], [], timeout.time_left())
+KeyboardInterrupt
+2022-10-13 05:52:00 INFO     initialize serial...
+2022-10-13 05:52:00 WARNING  packet dump for 10 seconds!
+2022-10-13 05:52:00 INFO     ,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC41006D,  AD5A0077: B05A006A
+2022-10-13 05:52:00 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A641000067: B0410071,  AC79000154: B079310078,  AD52007F: B0520163
+2022-10-13 05:52:00 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000451: B0007914005D,  AD41006C: B0560066
+2022-10-13 05:52:00 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000451: B07914005D,  AD56007B: B041007100
+2022-10-13 05:52:00 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000550: B07915005C,  AD52007F: B0520163
+2022-10-13 05:52:02 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A541006453: B07916005F,  AD41006C: B0410071
+2022-10-13 05:52:02 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC41006D,  AD52007F: B0520163
+2022-10-13 05:52:02 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000154: B079310078,  AD41006C: B0410071
+2022-10-13 05:52:02 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000451: B07914005D,  AD52007F: B0520163
+2022-10-13 05:52:02 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000550: B07915005C,  AD41006C: B0410071
+2022-10-13 05:52:04 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000653: B07916005F,  AD52007F: B0520163
+2022-10-13 05:52:04 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC41006D,  AD41006C: B0410071
+2022-10-13 05:52:04 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000154: B079310078,  AD52007F: B0520163
+2022-10-13 05:52:04 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000451: B07914005D,  AD41006C: B0410071
+2022-10-13 05:52:04 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000550: B07915005C,  AD52007F: B0520163
+2022-10-13 05:52:04 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000653: B07916005F,  AD41006C: B0410071
+2022-10-13 05:52:06 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC41006D,  AD52007F: B0520163
+2022-10-13 05:52:06 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000154: B079310078,  AD41006C: B0560066
+2022-10-13 05:52:06 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000451: B07914005D,  AD56007B: B0410071
+2022-10-13 05:52:06 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000550: B07915005C,  AD52007F: B0520163
+2022-10-13 05:52:06 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000653: B07916005F,  AD41006C: B0410071
+2022-10-13 05:52:08 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC41006D,  AD52007F: B0520163
+2022-10-13 05:52:08 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000154: B079310078,  AD41006C: B0410071
+2022-10-13 05:52:08 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000451: B07914005D,  AD52007F: B0520163
+2022-10-13 05:52:08 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000550: B07915005C,  AD41006C: B0410071
+2022-10-13 05:52:08 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000653: B07916005F,  AD52007F: B0520163
+2022-10-13 05:52:10 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC41006D,  AD41006C: B0410071
+2022-10-13 05:52:10 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000154: B079310078,  AD52007F: B0520163
+2022-10-13 05:52:10 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000451: B07914005D,  AD41006C: B0410071
+2022-10-13 05:52:10 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000550: B07915005C,  AD52007F: B0520163
+2022-10-13 05:52:10 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000653: B07916005F,  AD41006C: B0410071
+2022-10-13 05:52:11 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC41006D,  AD52007F: B0520163
+2022-10-13 05:52:11 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000154: B079310078,  AD41006C: B0410071
+2022-10-13 05:52:11 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000451: B07914005D,  AD52007F: B0520163
+2022-10-13 05:52:11 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000550: B07915005C,  AD41006C: B0410071
+2022-10-13 05:52:11 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC79000653: B07916005F,  AD52007F: B0520163
+2022-10-13 05:52:11 INFO     A15A007B,  A25A0078,  A35A0079,  A45A007E,  A5410064: B0410071,  A6410067: B0410071,  AC41006D,  AD41006C: B0410071
+2022-10-13 05:52:11 INFO     A15A007B,  A25A0078,  A35A00
+2022-10-13 05:52:11 WARNING  dump done.
+2022-10-13 05:52:11 INFO     initialize mqtt...
+2022-10-13 05:52:11 INFO     waiting MQTT connected ...
+2022-10-13 05:52:12 INFO     MQTT connect successful!
+2022-10-13 05:52:12 INFO     Add new device:  homeassistant/switch/sds_wallpad/sds_elevator/config
+2022-10-13 05:52:12 INFO     initial state:   sds/virtual/entrance/ev/state = OFF
+2022-10-13 05:52:12 INFO     Add new device:  homeassistant/switch/sds_wallpad/sds_gas_cutoff/config
+2022-10-13 05:52:12 INFO     initial state:   sds/virtual/entrance/gas/state = OFF
+2022-10-13 05:52:12 INFO     subscribe homeassistant/status
+2022-10-13 05:52:12 INFO     subscribe sds/virtual/+/+/command
+2022-10-13 05:52:12 INFO     subscribe sds/+/+/+/command
+2022-10-13 05:52:12 INFO     start loop ...
+2022-10-13 05:52:12 INFO     serial_new_device = light, idn = 49, packet = b'\xb0y1\x00x'
+2022-10-13 05:52:12 INFO     Add new device:  homeassistant/light/sds_wallpad/sds_light_1/config
+2022-10-13 05:52:12 INFO     Add new device:  homeassistant/light/sds_wallpad/sds_light_2/config
+2022-10-13 05:52:12 INFO     Add new device:  homeassistant/light/sds_wallpad/sds_light_3/config
+2022-10-13 05:52:12 INFO     serial_new_device = light, idn = 20, packet = b'\xb0y\x14\x00]'
+2022-10-13 05:52:12 INFO     Add new device:  homeassistant/light/sds_wallpad/sds_light_4/config
+2022-10-13 05:52:12 INFO     serial_new_device = light, idn = 21, packet = b'\xb0y\x15\x00\\'
+2022-10-13 05:52:12 INFO     Add new device:  homeassistant/light/sds_wallpad/sds_light_5/config
+2022-10-13 05:52:13 INFO     serial_new_device = light, idn = 22, packet = b'\xb0y\x16\x00_'
+2022-10-13 05:52:13 INFO     Add new device:  homeassistant/light/sds_wallpad/sds_light_6/config
+2022-10-13 05:52:13 INFO     publish to HA:   sds/light/31/power1/state = OFF (b079310078)
+2022-10-13 05:52:13 INFO     publish to HA:   sds/light/31/power2/state = OFF (b079310078)
+2022-10-13 05:52:13 INFO     publish to HA:   sds/light/31/power3/state = OFF (b079310078)
+2022-10-13 05:52:13 INFO     publish to HA:   sds/light/31/power4/state = OFF (b079310078)
+2022-10-13 05:52:13 INFO     publish to HA:   sds/light/31/power5/state = OFF (b079310078)
+2022-10-13 05:52:13 INFO     publish to HA:   sds/light/31/power6/state = OFF (b079310078)
+2022-10-13 05:52:13 INFO     publish to HA:   sds/light/31/power7/state = OFF (b079310078)
+2022-10-13 05:52:13 INFO     publish to HA:   sds/light/31/power8/state = OFF (b079310078)
+2022-10-13 05:52:14 INFO     publish to HA:   sds/light/14/power1/state = OFF (b07914005d)
+2022-10-13 05:52:14 INFO     publish to HA:   sds/light/14/power2/state = OFF (b07914005d)
+2022-10-13 05:52:14 INFO     publish to HA:   sds/light/14/power3/state = OFF (b07914005d)
+2022-10-13 05:52:14 INFO     publish to HA:   sds/light/14/power4/state = OFF (b07914005d)
+2022-10-13 05:52:14 INFO     publish to HA:   sds/light/14/power5/state = OFF (b07914005d)
+2022-10-13 05:52:14 INFO     publish to HA:   sds/light/14/power6/state = OFF (b07914005d)
+2022-10-13 05:52:14 INFO     publish to HA:   sds/light/14/power7/state = OFF (b07914005d)
+2022-10-13 05:52:14 INFO     publish to HA:   sds/light/14/power8/state = OFF (b07914005d)
+2022-10-13 05:52:14 INFO     publish to HA:   sds/light/15/power1/state = OFF (b07915005c)
+2022-10-13 05:52:14 INFO     publish to HA:   sds/light/15/power2/state = OFF (b07915005c)
+2022-10-13 05:52:14 INFO     publish to HA:   sds/light/15/power3/state = OFF (b07915005c)
+2022-10-13 05:52:14 INFO     publish to HA:   sds/light/15/power4/state = OFF (b07915005c)
+2022-10-13 05:52:14 INFO     publish to HA:   sds/light/15/power5/state = OFF (b07915005c)
+2022-10-13 05:52:14 INFO     publish to HA:   sds/light/15/power6/state = OFF (b07915005c)
+2022-10-13 05:52:14 INFO     publish to HA:   sds/light/15/power7/state = OFF (b07915005c)
+2022-10-13 05:52:14 INFO     publish to HA:   sds/light/15/power8/state = OFF (b07915005c)
+2022-10-13 05:52:14 INFO     publish to HA:   sds/light/16/power1/state = OFF (b07916005f)
+2022-10-13 05:52:14 INFO     publish to HA:   sds/light/16/power2/state = OFF (b07916005f)
+2022-10-13 05:52:14 INFO     publish to HA:   sds/light/16/power3/state = OFF (b07916005f)
+2022-10-13 05:52:14 INFO     publish to HA:   sds/light/16/power4/state = OFF (b07916005f)
+2022-10-13 05:52:14 INFO     publish to HA:   sds/light/16/power5/state = OFF (b07916005f)
+2022-10-13 05:52:14 INFO     publish to HA:   sds/light/16/power6/state = OFF (b07916005f)
+2022-10-13 05:52:14 INFO     publish to HA:   sds/light/16/power7/state = OFF (b07916005f)
+2022-10-13 05:52:14 INFO     publish to HA:   sds/light/16/power8/state = OFF (b07916005f)
+2022-10-13 05:52:16 WARNING  checksum fail! b06fbff3a15a00, 68
+2022-10-13 05:52:22 INFO     Add new device:  All done.
+2022-10-13 05:52:28 INFO     publish to HA:   sds/gas_valve/1/power/state = 열림 (ad56007b)
